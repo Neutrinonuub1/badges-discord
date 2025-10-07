@@ -1,15 +1,26 @@
-# 🏆 Discord Badges 🏆
+# 🏆 Discord Badges
 
-A **complete visual catalog** of every known badge in Discord — from user and bot badges to server-related and event-exclusive ones.  
+A **complete visual catalog** of every known badge on Discord — from **user** and **bot** badges to **server**, **Nitro**, and **event-exclusive** ones.  
 
-Badges in Discord serve as visual achievements, identifying contributions, participation, or status. Some are still obtainable, while others have become historical relics.  
-This repository aims to **document them all** accurately.
+Discord badges serve as symbols of **achievement, contribution, or recognition**.  
+Some are still obtainable, while others remain as **legacy collectibles** from past Discord eras.  
+This repository documents **all known badges** with accurate details and high-quality visuals.
 
 ---
 
-## 📚 Table of Contents
+<p align="center">
+  <img src="https://img.shields.io/github/stars/PandaDevOfficial/badges-discord?style=for-the-badge&color=blue">
+  <img src="https://img.shields.io/github/forks/PandaDevOfficial/badges-discord?style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/license/PandaDevOfficial/badges-discord?style=for-the-badge&color=green">
+  <img src="https://img.shields.io/github/last-commit/PandaDevOfficial/badges-discord?style=for-the-badge&color=orange">
+</p>
+
+---
+
+## Table of Contents
 
 - [General Badges](#-general-badges)  
+- [Developer Badges](#-developer-badges)  
 - [Bot Badges](#-bot-badges)  
 - [Nitro Subscription Badges](#-nitro-subscription-badges)  
 - [Nitro Boost Badges](#-nitro-boost-badges)  
@@ -21,97 +32,79 @@ This repository aims to **document them all** accurately.
 
 ---
 
-## 🧍‍♂️ General Badges
-
-These badges are typically found on user profiles, representing account type, age, or community involvement.
+## General Badges
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/discordstaff.svg" width="48"> | **Discord Staff** | Awarded to official Discord employees. | 🟢 Active |
-| <img src="/assets/discordpartner.svg" width="48"> | **Partnered Server Owner** | Given to owners of verified community servers. | 🟢 Active |
-| <img src="/assets/hypesquadevents.svg" width="48"> | **HypeSquad Events** | For users who represent Discord at conventions or community events. | 🟢 Active |
-| <img src="/assets/discordearlysupporter.svg" width="48"> | **Early Supporter** | Granted to users who purchased Nitro before October 2018. | 🔴 Legacy |
-| <img src="/assets/discordnitro.svg" width="48"> | **Discord Nitro** | Indicates an active Nitro, Nitro Basic, or Classic subscription. | 🟢 Active |
-| <img src="/assets/orb.svg" width="48"> | **Orbs Apprentice** | Earned by completing its specific quests and buying from “Orbs Exclusives”. | 🟢 Active |
-| <img src="/assets/quest.png" width="48"> | **Completed a Quest** | Granted for completing a quest from the Gift Inventory tab. | 🟢 Active |
-| <img src="/assets/special/discordlootbox.svg" width="48"> | **A Clown, for a Limited Time** | Earned during the April Fools Lootbox event by unlocking all rewards. | 🔴 Legacy |
-| <img src="/assets/username.png" width="48"> | **Originally Known As** | Given when changing to the new username system (unique tag holders). | 🔴 Legacy |
-| <img src="/assets/hypesquadbravery.svg" width="48"> | **HypeSquad Bravery** | Members of the HypeSquad Bravery house (program closed). | 🔴 Legacy |
-| <img src="/assets/hypesquadbrilliance.svg" width="48"> | **HypeSquad Brilliance** | Members of the HypeSquad Brilliance house (program closed). | 🔴 Legacy |
-| <img src="/assets/hypesquadbalance.svg" width="48"> | **HypeSquad Balance** | Members of the HypeSquad Balance house (program closed). | 🔴 Legacy |
-
-> **Note:** Some badges like HypeSquad houses or Early Supporter are no longer obtainable but remain visible on user profiles.
+| <img src="/assets/discordstaff.svg" width="48"> | **Discord Staff** | Granted to official Discord employees. | 🟢 Active |
+| <img src="/assets/discordpartner.svg" width="48"> | **Partnered Server Owner** | Given to owners of partnered Discord servers. | 🟢 Active |
+| <img src="/assets/hypesquadevents.svg" width="48"> | **HypeSquad Events** | For users who represented Discord at events or conventions. | 🔴 Legacy |
+| <img src="/assets/hypesquadbravery.svg" width="48"> | **HypeSquad Bravery** | One of three original HypeSquad houses. | 🔴 Legacy |
+| <img src="/assets/hypesquadbrilliance.svg" width="48"> | **HypeSquad Brilliance** | One of three original HypeSquad houses. | 🔴 Legacy |
+| <img src="/assets/hypesquadbalance.svg" width="48"> | **HypeSquad Balance** | One of three original HypeSquad houses. | 🔴 Legacy |
+| <img src="/assets/discordearlysupporter.svg" width="48"> | **Early Supporter** | For users who purchased Discord Nitro before Oct 2018. | 🔴 Legacy |
+| <img src="/assets/discordnitro.svg" width="48"> | **Discord Nitro** | Indicates an active Nitro subscription. | 🟢 Active |
+| <img src="/assets/orb.svg" width="48"> | **Orbs Apprentice** | Earned by completing Orbs quests and buying exclusives. | 🟢 Active |
+| <img src="/assets/quest.png" width="48"> | **Completed a Quest** | For completing quests from the Gift Inventory tab. | 🟢 Active |
+| <img src="/assets/special/discordlootbox.svg" width="48"> | **A Clown, for a Limited Time** | Exclusive badge from the April Fools Lootbox event. | 🔴 Legacy |
+| <img src="/assets/username.png" width="48"> | **Originally Known As** | For users from the old tag system (TAG#0000). | 🔴 Legacy |
 
 ---
 
-## 🧠 Developer Badges
-
-These badges are awarded to individuals who contribute to the Discord platform through verified apps, moderation, or community programs.
+## Developer Badges
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/activedeveloper.svg" width="48"> | **Active Developer** | Granted to developers who maintain at least one active Discord application that used a global command within the last 30 days. | 🟢 Active |
-| <img src="/assets/discordbotdev.svg" width="48"> | **Early Verified Bot Developer** | Legacy badge for users who verified a bot before August 19, 2020. | 🔴 Legacy |
-| <img src="/assets/discordmod.svg" width="48"> | **Moderator Programs Alumni** | Given to members who participated in Discord’s Moderator Academy and completed the official program. | 🔴 Legacy |
-| <img src="/assets/discordbughunter1.svg" width="48"> | **Bug Hunter (Tier 1)** | Awarded to Discord Testers who find and report verified bugs. | 🟢 Active |
-| <img src="/assets/discordbughunter2.svg" width="48"> | **Bug Hunter (Tier 2)** | Granted to the most dedicated members of the Discord Testers community who reach the highest level of recognition. | 🟢 Active |
-
-> **Note:** Developer badges are tied to user accounts, not bots. Legacy ones like *Early Verified Bot Developer* remain visible to those who earned them.
+| <img src="/assets/activedeveloper.svg" width="48"> | **Active Developer** | Granted to developers maintaining an active app with global commands used within 30 days. | 🟢 Active |
+| <img src="/assets/discordbotdev.svg" width="48"> | **Early Verified Bot Developer** | For developers who verified a bot before August 19, 2020. | 🔴 Legacy |
+| <img src="/assets/discordmod.svg" width="48"> | **Moderator Programs Alumni** | Given to members who completed Discord’s Moderator Academy. | 🔴 Legacy |
+| <img src="/assets/discordbughunter1.svg" width="48"> | **Bug Hunter (Tier 1)** | Awarded to users testing and reporting bugs. | 🟢 Active |
+| <img src="/assets/discordbughunter2.svg" width="48"> | **Bug Hunter (Tier 2)** | For top-tier testers in Discord Testers. | 🟢 Active |
 
 ---
 
-## 🤖 Bot Badges
-
-These badges identify **verified bots** and indicate functionality or integration within Discord’s ecosystem.
+## Bot Badges
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/bot/verifiedbot.svg" width="48"> | **Verified Bot** | Official verification badge confirming that the bot passed Discord’s trust and safety review. | 🟢 Active |
-| <img src="/assets/bot/supportscommands.svg" width="48"> | **Supports Commands** | Awarded to bots that use [Application Commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) (slash commands). | 🟢 Active |
-| <img src="/assets/bot/automod.svg" width="48"> | **Uses Automod** | Granted to bots managing at least 100 Automod rules through the Discord API. | 🟢 Active |
-| <img src="/assets/bot/premiumbot.png" width="48"> | **Premium App** | Given to bots offering premium subscriptions via Discord’s in-app purchases. | 🟢 Active |
-
-> **Note:** Bot badges apply only to verified apps. Some bot-related user badges (like *Active Developer*) are shown on developer accounts instead.
+| <img src="/assets/supportscommands.svg" width="48"> | **Supports Commands** | Indicates bots that use application commands (slash commands). | 🟢 Active |
+| <img src="/assets/automod.svg" width="48"> | **Uses AutoMod** | For bots with 100+ active AutoMod rules. | 🟢 Active |
+| <img src="/assets/premiumbot.png" width="48"> | **Premium Bot** | For bots offering premium via in-app purchases. | 🟢 Active |
 
 ---
 
-## 💎 Nitro Subscription Badges
+## Nitro Subscription Badges
 
 | Tier | Badge | Months | Description |
 |:------|:------|:------|:-------------|
-| Bronze | <img src="/assets/subscriptions/badges/bronze.png" width="48"> | 1 | Subscribed for 1 month |
-| Silver | <img src="/assets/subscriptions/badges/silver.png" width="48"> | 3 | Subscribed for 3 months |
-| Gold | <img src="/assets/subscriptions/badges/gold.png" width="48"> | 6 | Subscribed for 6 months |
-| Platinum | <img src="/assets/subscriptions/badges/platinum.png" width="48"> | 12 | Subscribed for 1 year |
-| Diamond | <img src="/assets/subscriptions/badges/diamond.png" width="48"> | 24 | Subscribed for 2 years |
-| Emerald | <img src="/assets/subscriptions/badges/emerald.png" width="48"> | 36 | Subscribed for 3 years |
-| Ruby | <img src="/assets/subscriptions/badges/ruby.png" width="48"> | 60 | Subscribed for 5 years |
-| Opal | <img src="/assets/subscriptions/badges/opal.png" width="48"> | 72+ | Subscribed for 6+ years |
+| 🟤 Bronze | <img src="/assets/subscriptions/badges/bronze.png" width="48"> | 1 | Subscribed for 1 month |
+| ⚪ Silver | <img src="/assets/subscriptions/badges/silver.png" width="48"> | 3 | Subscribed for 3 months |
+| 🟡 Gold | <img src="/assets/subscriptions/badges/gold.png" width="48"> | 6 | Subscribed for 6 months |
+| 🩶 Platinum | <img src="/assets/subscriptions/badges/platinum.png" width="48"> | 12 | Subscribed for 1 year |
+| 💎 Diamond | <img src="/assets/subscriptions/badges/diamond.png" width="48"> | 24 | Subscribed for 2 years |
+| 🟢 Emerald | <img src="/assets/subscriptions/badges/emerald.png" width="48"> | 36 | Subscribed for 3 years |
+| 🔴 Ruby | <img src="/assets/subscriptions/badges/ruby.png" width="48"> | 60 | Subscribed for 5 years |
+| 🩵 Opal | <img src="/assets/subscriptions/badges/opal.png" width="48"> | 72+ | Subscribed for 6+ years |
 
 ---
 
-## 🚀 Nitro Boost Badges
+## Nitro Boost Badges
 
-These badges represent how long a user has continuously boosted a Discord server.  
-They evolve automatically as your total boost duration increases.
-
-| Badge | Name | Description | Status |
-|:------|:------|:-------------|:--------|
-| <img src="/assets/boosts/discordboost1.svg" width="48"> | **1-Month Booster** | Earned by boosting any Discord server for 1 month. | 🟢 Active |
-| <img src="/assets/boosts/discordboost2.svg" width="48"> | **2-Month Booster** | Earned by boosting a Discord server for 2 consecutive months. | 🟢 Active |
-| <img src="/assets/boosts/discordboost3.svg" width="48"> | **3-Month Booster** | Earned by boosting a Discord server for 3 consecutive months. | 🟢 Active |
-| <img src="/assets/boosts/discordboost4.svg" width="48"> | **6-Month Booster** | Earned by boosting a Discord server for 6 consecutive months. | 🟢 Active |
-| <img src="/assets/boosts/discordboost5.svg" width="48"> | **9-Month Booster** | Earned by boosting a Discord server for 9 consecutive months. | 🟢 Active |
-| <img src="/assets/boosts/discordboost6.svg" width="48"> | **1-Year Booster** | Earned by boosting a Discord server for 12 consecutive months. | 🟢 Active |
-| <img src="/assets/boosts/discordboost7.svg" width="48"> | **1 Year & 3-Month Booster** | Earned by boosting a Discord server for 15 consecutive months. | 🟢 Active |
-| <img src="/assets/boosts/discordboost8.svg" width="48"> | **1 Year & 6-Month Booster** | Earned by boosting a Discord server for 18 consecutive months. | 🟢 Active |
-| <img src="/assets/boosts/discordboost9.svg" width="48"> | **2-Year Booster** | Earned by boosting a Discord server for 24 consecutive months. | 🟢 Active |
-
-> **Note:** If you cancel or lose your Nitro subscription, your boost streak will pause and may reset, causing your badge to downgrade or disappear.
+| Tier | Badge | Requirement |
+|:------|:------|:-------------|
+| Level 1 | <img src="/assets/boosts/discordboost1.svg" width="48"> | 1 month boost |
+| Level 2 | <img src="/assets/boosts/discordboost2.svg" width="48"> | 2 months boost |
+| Level 3 | <img src="/assets/boosts/discordboost3.svg" width="48"> | 3 months boost |
+| Level 4 | <img src="/assets/boosts/discordboost4.svg" width="48"> | 6 months boost |
+| Level 5 | <img src="/assets/boosts/discordboost5.svg" width="48"> | 9 months boost |
+| Level 6 | <img src="/assets/boosts/discordboost6.svg" width="48"> | 1 year boost |
+| Level 7 | <img src="/assets/boosts/discordboost7.svg" width="48"> | 15 months boost |
+| Level 8 | <img src="/assets/boosts/discordboost8.svg" width="48"> | 18 months boost |
+| Level 9 | <img src="/assets/boosts/discordboost9.svg" width="48"> | 2 years boost |
 
 ---
 
-## 🏷️ Server Badges
+## Server Badges
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
@@ -124,7 +117,7 @@ They evolve automatically as your total boost duration increases.
 
 ---
 
-## 🌟 Special Badges
+## Special Badges
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
@@ -139,7 +132,7 @@ They evolve automatically as your total boost duration increases.
 
 ---
 
-## 🏷️ Tag Icons
+## Tag Icons
 
 21 customizable tag icons for server roles and tags.
 
@@ -154,7 +147,7 @@ They evolve automatically as your total boost duration increases.
 
 ---
 
-## 🏆 Hall of Fame
+## Hall of Fame
 
 Special or unique badge appearances in Discord history.
 
@@ -166,12 +159,24 @@ Special or unique badge appearances in Discord history.
 
 ---
 
-## 🕓 Badge Change Log
+## Badge Change Log
 
 | Badge | Old | New | Date |
 |:------|:------|:------|:------|
 | Partner Program | Active | Closed | 2023-10-05 |
 | Moderator Badge | Discord Certified Moderator | Moderator Programs Alumni | 2022-12-01 |
 | Verified Bot Dev | Verified Bot Developer | Early Verified Bot Developer | 2020-08-19 |
+
+---
+
+## Credits
+
+- 🧠 Based on public Discord assets and documentation  
+- 🎨 High-quality assets stored in `/assets/`
+
+---
+
+> **Contributions are welcome!**  
+> If a new badge appears, feel free to submit a PR or open an issue.
 
 ---
