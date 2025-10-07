@@ -10,9 +10,6 @@ This repository documents **all known badges** with accurate details and high-qu
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/PandaDevOfficial/badges-discord?style=for-the-badge&color=blue">
-  <img src="https://img.shields.io/github/forks/PandaDevOfficial/badges-discord?style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/license/PandaDevOfficial/badges-discord?style=for-the-badge&color=green">
-  <img src="https://img.shields.io/github/last-commit/PandaDevOfficial/badges-discord?style=for-the-badge&color=orange">
 </p>
 
 ---
