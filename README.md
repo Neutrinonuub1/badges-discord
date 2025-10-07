@@ -1,4 +1,4 @@
-# 🏆 Discord Badges
+# 🏆 Discord Badges 🏆
 
 A **complete visual catalog** of every known badge in Discord — from user and bot badges to server-related and event-exclusive ones.  
 
