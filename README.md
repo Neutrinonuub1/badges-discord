@@ -126,21 +126,16 @@ They evolve automatically as your total boost duration increases.
 
 ## 🌟 Special Badges
 
-Badges awarded during **limited events**, for **internal accounts**, or for **unique recognition** within Discord’s ecosystem.  
-These are rare, time-sensitive, or permanently retired badges.
-
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/special/discordlootbox.svg" width="52"> | **A Clown, for a Limited Time** | Earned during the 2024 April Fools event “Discord Lootboxes” by unlocking all rewards. | 🔴 Legacy |
-| <img src="/assets/special/orbs.svg" width="52"> | **Orbs Apprentice** | Granted for completing Orbs’ seasonal quests and purchasing from the Orbs Exclusives shop. | 🟢 Active |
-| <img src="/assets/special/discordbirthday.svg" width="52"> | **Discord Birthday** | Appears on Discord’s official accounts to celebrate the platform’s anniversary. | 🔵 Internal |
-| <img src="/assets/special/quest.png" width="52"> | **Quest Completed** | Awarded to users who finish a Quest from the Gift Inventory tab (e.g. “Play with friends for rewards”). | 🟢 Active |
-| <img src="/assets/special/halloween.svg" width="52"> | **Spooky Time (Halloween 2023)** | Given during Discord’s Halloween seasonal event for participating in themed activities. | 🔴 Legacy |
-| <img src="/assets/special/snowgiving.svg" width="52"> | **Snowgiving Supporter** | Earned during the annual Snowgiving charity event by participating or donating. | 🔴 Legacy |
-| <img src="/assets/special/boostcelebration.svg" width="52"> | **Server Boost Celebration** | Temporarily shown during milestone celebrations for boosting Discord or a partner server. | 🟡 Event |
-| <img src="/assets/special/username.png" width="52"> | **Originally Known As** | Given to early adopters who migrated to Discord’s new unique username system. | 🔴 Legacy |
-
-> **Note:** Many special badges are time-limited and serve as event souvenirs rather than permanent achievements.
+| <img src="/assets/special/Official.svg" width="48"> | **Official** | Reserved for official system messages. | 🔴 System |
+| <img src="/assets/special/System.svg" width="48"> | **System** | Legacy Discord system messages. | 🔴 System |
+| <img src="/assets/special/Server.svg" width="48"> | **Server Follow** | Shown on posts made via “Followed Channel” webhooks. | 🟢 Active |
+| <img src="/assets/special/VerifiedApp.svg" width="48"> | **Verified App** | Verified Discord app or bot. | 🟢 Active |
+| <img src="/assets/special/App.svg" width="48"> | **Unverified App** | Regular bot or app. | 🟢 Active |
+| <img src="/assets/special/Beta.svg" width="48"> | **Beta** | Used for internal beta features. | 🔴 Legacy |
+| <img src="/assets/special/LightAi.svg" width="48"> | **AI (Clyde)** | Used by Discord’s Clyde AI bot. | 🔴 System |
+| <img src="/assets/special/OriginalPoster.svg" width="48"> | **Original Poster (OP)** | Given to the creator of a forum post. | 🟢 Active |
 
 ---
 
