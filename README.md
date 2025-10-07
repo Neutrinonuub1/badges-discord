@@ -44,6 +44,22 @@ These badges are typically found on user profiles, representing account type, ag
 
 ---
 
+## 🧠 Developer Badges
+
+These badges are awarded to individuals who contribute to the Discord platform through verified apps, moderation, or community programs.
+
+| Badge | Name | Description | Status |
+|:------|:------|:-------------|:--------|
+| <img src="/assets/activedeveloper.svg" width="48"> | **Active Developer** | Granted to developers who maintain at least one active Discord application that used a global command within the last 30 days. | 🟢 Active |
+| <img src="/assets/discordbotdev.svg" width="48"> | **Early Verified Bot Developer** | Legacy badge for users who verified a bot before August 19, 2020. | 🔴 Legacy |
+| <img src="/assets/discordmod.svg" width="48"> | **Moderator Programs Alumni** | Given to members who participated in Discord’s Moderator Academy and completed the official program. | 🔴 Legacy |
+| <img src="/assets/discordbughunter1.svg" width="48"> | **Bug Hunter (Tier 1)** | Awarded to Discord Testers who find and report verified bugs. | 🟢 Active |
+| <img src="/assets/discordbughunter2.svg" width="48"> | **Bug Hunter (Tier 2)** | Granted to the most dedicated members of the Discord Testers community who reach the highest level of recognition. | 🟢 Active |
+
+> **Note:** Developer badges are tied to user accounts, not bots. Legacy ones like *Early Verified Bot Developer* remain visible to those who earned them.
+
+---
+
 ## 🤖 Bot Badges
 
 These badges are granted to verified bots or their developers, signifying authenticity, functionality, and active contribution within Discord’s developer ecosystem.
@@ -59,22 +75,5 @@ These badges are granted to verified bots or their developers, signifying authen
 
 > **Note:** Some badges like *Early Verified Bot Developer* are legacy and cannot be earned anymore, but remain visible on older developer profiles.
 
----
-
-## 🧠 Developer Badges
-
-These badges are awarded to individuals who contribute to the Discord platform through development, moderation, or verified community programs.
-
-| Badge | Name | Description | Status |
-|:------|:------|:-------------|:--------|
-| <img src="/assets/developer/activedeveloper.svg" width="48"> | **Active Developer** | Granted to developers who maintain at least one active Discord application that has used a global command within the last 30 days. | 🟢 Active |
-| <img src="/assets/developer/earlybotdev.svg" width="48"> | **Early Verified Bot Developer** | Legacy badge for users who verified a Discord bot before August 19, 2020. | 🔴 Legacy |
-| <img src="/assets/developer/modprogramsalumni.svg" width="48"> | **Moderator Programs Alumni** | Given to members who participated in Discord’s Moderator Academy and completed the official program. | 🔴 Legacy |
-| <img src="/assets/developer/discordstaff.svg" width="48"> | **Discord Staff** | Exclusive badge for official Discord employees. May be hidden on some staff accounts. | 🟢 Active |
-| <img src="/assets/developer/partneredserverowner.svg" width="48"> | **Partnered Server Owner** | Granted to owners of officially partnered Discord servers that meet community and engagement requirements. | 🟢 Active |
-| <img src="/assets/developer/bughunter1.svg" width="48"> | **Bug Hunter (Tier 1)** | Awarded to Discord Testers who find and report verified bugs within the platform. | 🟢 Active |
-| <img src="/assets/developer/bughunter2.svg" width="48"> | **Bug Hunter (Tier 2)** | Granted to the most dedicated members of the Discord Testers community who reach the highest level of recognition. | 🟢 Active |
-
-> **Note:** Legacy badges like *Early Verified Bot Developer* and *Moderator Programs Alumni* are no longer obtainable but remain visible to those who earned them prior to their discontinuation.
 
 
