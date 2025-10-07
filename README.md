@@ -87,4 +87,24 @@ These badges represent different types of active **Discord Nitro subscriptions**
 
 > **Note:** Nitro Classic has been replaced by the newer **Nitro** and **Nitro Basic** tiers, but users who subscribed prior to the transition still retain the Classic badge.
 
+---
+
+## 🚀 Nitro Boost Badges
+
+These badges represent how long a user has continuously boosted a Discord server.  
+They evolve automatically as your total boost duration increases.
+
+| Badge | Name | Description | Status |
+|:------|:------|:-------------|:--------|
+| <img src="/assets/boosts/discordboost1.svg" width="48"> | **1-Month Booster** | Earned by boosting any Discord server for 1 month. | 🟢 Active |
+| <img src="/assets/boosts/discordboost2.svg" width="48"> | **2-Month Booster** | Earned by boosting a Discord server for 2 consecutive months. | 🟢 Active |
+| <img src="/assets/boosts/discordboost3.svg" width="48"> | **3-Month Booster** | Earned by boosting a Discord server for 3 consecutive months. | 🟢 Active |
+| <img src="/assets/boosts/discordboost4.svg" width="48"> | **6-Month Booster** | Earned by boosting a Discord server for 6 consecutive months. | 🟢 Active |
+| <img src="/assets/boosts/discordboost5.svg" width="48"> | **9-Month Booster** | Earned by boosting a Discord server for 9 consecutive months. | 🟢 Active |
+| <img src="/assets/boosts/discordboost6.svg" width="48"> | **1-Year Booster** | Earned by boosting a Discord server for 12 consecutive months. | 🟢 Active |
+| <img src="/assets/boosts/discordboost7.svg" width="48"> | **1 Year & 3-Month Booster** | Earned by boosting a Discord server for 15 consecutive months. | 🟢 Active |
+| <img src="/assets/boosts/discordboost8.svg" width="48"> | **1 Year & 6-Month Booster** | Earned by boosting a Discord server for 18 consecutive months. | 🟢 Active |
+| <img src="/assets/boosts/discordboost9.svg" width="48"> | **2-Year Booster** | Earned by boosting a Discord server for 24 consecutive months. | 🟢 Active |
+
+> **Note:** If you cancel or lose your Nitro subscription, your boost streak will pause and may reset, causing your badge to downgrade or disappear.
 
