@@ -62,18 +62,16 @@ These badges are awarded to individuals who contribute to the Discord platform t
 
 ## 🤖 Bot Badges
 
-These badges are granted to verified bots or their developers, signifying authenticity, functionality, and active contribution within Discord’s developer ecosystem.
+These badges identify **verified bots** and indicate functionality or integration within Discord’s ecosystem.
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
+| <img src="/assets/bot/verifiedbot.svg" width="48"> | **Verified Bot** | Official verification badge confirming that the bot passed Discord’s trust and safety review. | 🟢 Active |
 | <img src="/assets/bot/supportscommands.svg" width="48"> | **Supports Commands** | Awarded to bots that use [Application Commands](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps) (slash commands). | 🟢 Active |
-| <img src="/assets/bot/automod.svg" width="48"> | **Uses Automod** | Granted to bots with at least 100 active Automod rules created and managed through Discord’s API. | 🟢 Active |
-| <img src="/assets/bot/premiumbot.png" width="48"> | **Premium App** | Given to bots or apps that offer premium subscriptions via Discord’s in-app purchase system. | 🟢 Active |
-| <img src="/assets/bot/verifiedbot.svg" width="48"> | **Verified Bot** | Official verification badge confirming that the bot has passed Discord’s trust and safety requirements. | 🟢 Active |
-| <img src="/assets/bot/earlyverifiedbot.svg" width="48"> | **Early Verified Bot Developer** | Legacy badge awarded to developers who verified their bot before August 19, 2020. | 🔴 Legacy |
-| <img src="/assets/bot/activedeveloper.svg" width="48"> | **Active Developer** | Granted to developers maintaining an application that has used a Global Command within the last 30 days. | 🟢 Active |
+| <img src="/assets/bot/automod.svg" width="48"> | **Uses Automod** | Granted to bots managing at least 100 Automod rules through the Discord API. | 🟢 Active |
+| <img src="/assets/bot/premiumbot.png" width="48"> | **Premium App** | Given to bots offering premium subscriptions via Discord’s in-app purchases. | 🟢 Active |
 
-> **Note:** Some badges like *Early Verified Bot Developer* are legacy and cannot be earned anymore, but remain visible on older developer profiles.
+> **Note:** Bot badges apply only to verified apps. Some bot-related user badges (like *Active Developer*) are shown on developer accounts instead.
 
-
+---
 
