@@ -1,4 +1,4 @@
-# 🏆 Discord Badges
+# Discord Badges
 
 A **complete visual catalog** of every known badge on Discord — from **user** and **bot** badges to **server**, **Nitro**, and **event-exclusive** ones.  
 
@@ -77,14 +77,14 @@ This repository documents **all known badges** with accurate details and high-qu
 
 | Tier | Badge | Months | Description |
 |:------|:------|:------|:-------------|
-| 🟤 Bronze | <img src="/assets/subscriptions/badges/bronze.png" width="48"> | 1 | Subscribed for 1 month |
-| ⚪ Silver | <img src="/assets/subscriptions/badges/silver.png" width="48"> | 3 | Subscribed for 3 months |
-| 🟡 Gold | <img src="/assets/subscriptions/badges/gold.png" width="48"> | 6 | Subscribed for 6 months |
-| 🩶 Platinum | <img src="/assets/subscriptions/badges/platinum.png" width="48"> | 12 | Subscribed for 1 year |
-| 💎 Diamond | <img src="/assets/subscriptions/badges/diamond.png" width="48"> | 24 | Subscribed for 2 years |
-| 🟢 Emerald | <img src="/assets/subscriptions/badges/emerald.png" width="48"> | 36 | Subscribed for 3 years |
-| 🔴 Ruby | <img src="/assets/subscriptions/badges/ruby.png" width="48"> | 60 | Subscribed for 5 years |
-| 🩵 Opal | <img src="/assets/subscriptions/badges/opal.png" width="48"> | 72+ | Subscribed for 6+ years |
+| Bronze | <img src="/assets/subscriptions/badges/bronze.png" width="48"> | 1 | Subscribed for 1 month |
+| Silver | <img src="/assets/subscriptions/badges/silver.png" width="48"> | 3 | Subscribed for 3 months |
+| Gold | <img src="/assets/subscriptions/badges/gold.png" width="48"> | 6 | Subscribed for 6 months |
+| Platinum | <img src="/assets/subscriptions/badges/platinum.png" width="48"> | 12 | Subscribed for 1 year |
+| Diamond | <img src="/assets/subscriptions/badges/diamond.png" width="48"> | 24 | Subscribed for 2 years |
+| Emerald | <img src="/assets/subscriptions/badges/emerald.png" width="48"> | 36 | Subscribed for 3 years |
+| Ruby | <img src="/assets/subscriptions/badges/ruby.png" width="48"> | 60 | Subscribed for 5 years |
+| Opal | <img src="/assets/subscriptions/badges/opal.png" width="48"> | 72+ | Subscribed for 6+ years |
 
 ---
 
@@ -171,8 +171,8 @@ Special or unique badge appearances in Discord history.
 
 ## Credits
 
-- 🧠 Based on public Discord assets and documentation  
-- 🎨 High-quality assets stored in `/assets/`
+- Based on public Discord assets and documentation  
+- High-quality assets stored in `/assets/`
 
 ---
 
