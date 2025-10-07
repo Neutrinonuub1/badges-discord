@@ -163,3 +163,15 @@ Special or unique badge appearances in Discord history.
 | Spongetext App receiving a **Staff Badge** for unclear reasons. | <img src="/assets/fame/spongetextstaff.png" width="100"> |
 | Sapphire & GearBot received the **Moderator Alumni Badge**. | <img src="/assets/fame/sapphiremod.png" width="100"> <img src="/assets/fame/gearmod.png" width="100"> |
 | Discord’s early chatbot before Clyde. | <img src="/assets/fame/wumpus.png" width="100"> |
+
+---
+
+## 🕓 Badge Change Log
+
+| Badge | Old | New | Date |
+|:------|:------|:------|:------|
+| Partner Program | Active | Closed | 2023-10-05 |
+| Moderator Badge | Discord Certified Moderator | Moderator Programs Alumni | 2022-12-01 |
+| Verified Bot Dev | Verified Bot Developer | Early Verified Bot Developer | 2020-08-19 |
+
+---
