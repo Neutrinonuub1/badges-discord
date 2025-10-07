@@ -154,29 +154,12 @@ They evolve automatically as your total boost duration increases.
 
 ---
 
-## Special Flairs
-
-| Title                | Badge                                                                                         | Obtainable? | Earned by                                                       |
-| -------------------- | --------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------- |
-| Official             | <img  src="/assets/special/Official.svg" />                                                   | ❌          | Reserved for discord official system or automod messages. (New) |
-| System               | <img  src="/assets/special/System.svg" />                                                     | ❌          | Reserved for discord system or automod messages. (Old)          |
-| Server               | <img  src="/assets/special/Server.svg" />                                                     | ✅          | Reserved by a "webhook" by following a channel.                 |
-| Verified Bot/App     | <img  src="/assets/special/VerifiedBot.svg" /> <img  src="/assets/special/VerifiedApp.svg" /> | ✅          | Obtained by a verified app.                                     |
-| Bot/App              | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special/App.svg" />                 | ✅          | Obtained by an unverified app.                                  |
-| Beta                 | <img  src="/assets/special/Beta.svg" />                                                       | ❌          | Reserved for in beta features (Also off center).                |
-| Ai                   | <img  src="/assets/special/LightAi.svg" /> <img  src="/assets/special/DarkAi.svg" />          | ❌          | Only for the Clyde Ai bot.                                      |
-| OP (Original Poster) | <img  src="/assets/special/OriginalPoster.svg" />                                             | ✅          | Given to the original poster of a forum post.                   |
-
-
----
-
-
 ## 🏆 Hall of Fame
 
-| Explanation | Image |
-|:-----------|:-----|
-| **Spongetext** APP was given the Discord Staff badge (unclear why). | <img src="/assets/fame/spongetextstaff.png" /> |
-| Moderator Alumni server closed; Sapphire & GearBot were only apps to ever get Moderator Programs Alumni badge. | <img src="/assets/fame/sapphiremod.png" /> <img src="/assets/fame/gearmod.png" /> |
-| Early chatbot precursor to Clyde created by Discord. | <img src="/assets/fame/wumpus.png" /> |
-| Feb 2019: King of the Hat competition awarded HypeSquad Balance badge temporarily. | <img src="/assets/kothhypesquadbalance.svg" /> |
-| Snowsgiving 2019: HypeSquad Balance badge turned gold temporarily; only animated badge ever on Discord. | <img src="/assets/goldenhypesquadbalance.svg" /> |
+Special or unique badge appearances in Discord history.
+
+| Event | Image |
+|:------|:------|
+| Spongetext App receiving a **Staff Badge** for unclear reasons. | <img src="/assets/fame/spongetextstaff.png" width="100"> |
+| Sapphire & GearBot received the **Moderator Alumni Badge**. | <img src="/assets/fame/sapphiremod.png" width="100"> <img src="/assets/fame/gearmod.png" width="100"> |
+| Discord’s early chatbot before Clyde. | <img src="/assets/fame/wumpus.png" width="100"> |
