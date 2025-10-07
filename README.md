@@ -139,6 +139,21 @@ They evolve automatically as your total boost duration increases.
 
 ---
 
+## 🏷️ Tag Icons
+
+21 customizable tag icons for server roles and tags.
+
+<p align="center">
+  <img src="/assets/guilds/1.svg" width="48">
+  <img src="/assets/guilds/2.svg" width="48">
+  <img src="/assets/guilds/3.svg" width="48">
+  <img src="/assets/guilds/4.svg" width="48">
+  <img src="/assets/guilds/5.svg" width="48">
+  ...
+</p>
+
+---
+
 ## Special Flairs
 
 | Title                | Badge                                                                                         | Obtainable? | Earned by                                                       |
@@ -155,19 +170,6 @@ They evolve automatically as your total boost duration increases.
 
 ---
 
-## 🏷️ Tag Icons
-
-| 1 | 2 | 3 | 4 | 5 |
-|:--:|:--:|:--:|:--:|:--:|
-| <img src="/assets/guilds/31.svg" /> | <img src="/assets/guilds/30.svg" /> | <img src="/assets/guilds/29.svg" /> | <img src="/assets/guilds/28.svg" /> | <img src="/assets/guilds/27.svg" /> |
-| <img src="/assets/guilds/26.svg" /> | <img src="/assets/guilds/25.svg" /> | <img src="/assets/guilds/24.svg" /> | <img src="/assets/guilds/23.svg" /> | <img src="/assets/guilds/22.svg" /> |
-| <img src="/assets/guilds/21.svg" /> | <img src="/assets/guilds/20.svg" /> | <img src="/assets/guilds/19.svg" /> | <img src="/assets/guilds/18.svg" /> | <img src="/assets/guilds/17.svg" /> |
-| <img src="/assets/guilds/16.svg" /> | <img src="/assets/guilds/15.svg" /> | <img src="/assets/guilds/14.svg" /> | <img src="/assets/guilds/13.svg" /> | <img src="/assets/guilds/12.svg" /> |
-| <img src="/assets/guilds/11.svg" /> | <img src="/assets/guilds/10.svg" /> | <img src="/assets/guilds/9.svg" /> | <img src="/assets/guilds/8.svg" /> | <img src="/assets/guilds/7.svg" /> |
-| <img src="/assets/guilds/6.svg" /> | <img src="/assets/guilds/5.svg" /> | <img src="/assets/guilds/4.svg" /> | <img src="/assets/guilds/3.svg" /> | <img src="/assets/guilds/2.svg" /> |
-| <img src="/assets/guilds/1.svg" /> | | | | |
-
----
 
 ## 🏆 Hall of Fame
 
