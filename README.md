@@ -113,26 +113,14 @@ They evolve automatically as your total boost duration increases.
 
 ## 🏷️ Server Badges
 
-Badges that represent **server-level features** such as verification, partnership, boosting, and discovery eligibility.  
-These appear on the top left corner of a Discord server’s icon and indicate its status or recognition by Discord.
-
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/server/Staff.svg" width="52"> | **Internal Employee (Staff)** | Given to servers with the `_INTERNAL_EMPLOYEE_ONLY_` feature flag — not available to the public. | 🔴 Internal |
-| <img src="/assets/server/Partnered.svg" width="52"> | **Partnered Server** | Awarded to partnered servers that met Discord’s partnership requirements before October 2023. | 🟠 Legacy |
-| <img src="/assets/server/Verified.svg" width="52"> | **Verified Server** | Granted to servers verified as official organizations or brands (program currently paused). | ⏸️ Paused |
-| <img src="/assets/server/DiscoverableDark.svg" width="52"> | **Public Server (Discovery)** | Indicates the server is listed in Discord’s public server discovery. | 🟢 Active |
-| <img src="/assets/server/DiscoverableBoosted.svg" width="52"> | **Public Server (Boosted)** | Discovery-enabled server with at least one boost. | 🟢 Active |
-| <img src="/assets/server/CommunityDark.svg" width="52"> | **Community Server** | Servers with community features (rules, welcome screen, mod log, etc.) enabled. | 🟢 Active |
-| <img src="/assets/server/CommunityBoosted.svg" width="52"> | **Community Server (Boosted)** | Community-enabled server with at least one boost. | 🟢 Active |
-| <img src="/assets/server/Boost0.svg" width="52"> | **Boosted Server (Level 0)** | Server has at least 1 boost but no level bonuses. | 🟢 Active |
-| <img src="/assets/server/Boost1.svg" width="52"> | **Boosted Server (Level 1)** | Server has reached level 1 boost tier. | 🟢 Active |
-| <img src="/assets/server/Boost2Dark.svg" width="52"> | **Boosted Server (Level 2)** | Server has reached level 2 boost tier. | 🟢 Active |
-| <img src="/assets/server/Boost3Dark.svg" width="52"> | **Boosted Server (Level 3)** | Server has reached the maximum boost tier (level 3). | 🟢 Active |
-| <img src="/assets/server/Crown.svg" width="52"> | **Server Owner** | Automatically shown to the server creator. Can be removed by giving admin to another role. | 🟢 Active |
-| <img src="/assets/server/NewHere.svg" width="52"> | **I’m New Here!** | Temporary badge for new community members (visible for 1 week after joining). | 🟢 Active |
-
-> **Note:** Server badges are automatically applied and cannot be manually earned or transferred, except the Owner badge.
+| <img src="/assets/server/Partnered.svg" width="48"> | **Partnered Server** | For servers that met Discord’s partner requirements. | 🔴 Paused |
+| <img src="/assets/server/Verified.svg" width="48"> | **Verified Server** | For official brands, games, or creators. | 🔴 Paused |
+| <img src="/assets/server/CommunityDark.svg" width="48"> | **Community Server** | For servers with the community feature enabled. | 🟢 Active |
+| <img src="/assets/server/Boost3Dark.svg" width="48"> | **Boost Level 3** | For servers boosted to level 3. | 🟢 Active |
+| <img src="/assets/server/Crown.svg" width="48"> | **Server Owner** | Given to the server creator (crown icon). | 🟢 Active |
+| <img src="/assets/server/NewHere.svg" width="48"> | **I'm New Here!** | Shown to new members for one week. | 🟢 Active |
 
 ---
 
