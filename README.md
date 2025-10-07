@@ -9,7 +9,9 @@ This repository documents **all known badges** with accurate details and high-qu
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/PandaDevOfficial/badges-discord?style=for-the-badge&color=blue">
+  <a href="https://github.com/PandaDevOfficial/badges-discord/stargazers">
+    <img src="https://img.shields.io/github/stars/PandaDevOfficial/badges-discord?style=for-the-badge&color=blue&label=Stars" alt="GitHub Stars">
+  </a>
 </p>
 
 ---
