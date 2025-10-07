@@ -145,3 +145,20 @@ These badges are limited-time or event-exclusive, often granted during seasonal 
 
 > **Note:** Most *Special Badges* are time-limited and no longer obtainable once their respective events end, but remain visible on user profiles.
 
+---
+
+## 🏷️ Tag Icons
+
+Tag icons are small labels displayed next to usernames in chat or member lists.  
+They indicate special account types or system identities within Discord.
+
+| Icon | Name | Description | Status |
+|:------|:------|:-------------|:--------|
+| <img src="/assets/tags/bot.svg" width="48"> | **Bot Tag** | Appears next to automated user accounts (bots) created through the Discord Developer Portal. | 🟢 Active |
+| <img src="/assets/tags/app.svg" width="48"> | **App Tag** | Used for applications that integrate deeply with Discord’s App system, replacing the traditional “BOT” tag for certain integrations. | 🟢 Active |
+| <img src="/assets/tags/automod.svg" width="48"> | **Automod Tag** | Assigned to the built-in *AutoMod* system when it sends automated moderation messages. | 🟢 Active |
+| <img src="/assets/tags/system.svg" width="48"> | **System Tag** | Appears on messages sent by Discord’s system user (such as welcome or safety notifications). | 🟢 Active |
+| <img src="/assets/tags/serverguide.svg" width="48"> | **Server Guide Tag** | Found in onboarding flows or guide messages for new members of Community servers. | 🟢 Active |
+
+> **Note:** Tag icons are not badges — they’re functional labels automatically applied by Discord to identify specific message sources or account types.
+
