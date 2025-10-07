@@ -155,6 +155,22 @@ These are rare, time-sensitive, or permanently retired badges.
 
 ---
 
+## Special Flairs
+
+| Title                | Badge                                                                                         | Obtainable? | Earned by                                                       |
+| -------------------- | --------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------- |
+| Official             | <img  src="/assets/special/Official.svg" />                                                   | ❌          | Reserved for discord official system or automod messages. (New) |
+| System               | <img  src="/assets/special/System.svg" />                                                     | ❌          | Reserved for discord system or automod messages. (Old)          |
+| Server               | <img  src="/assets/special/Server.svg" />                                                     | ✅          | Reserved by a "webhook" by following a channel.                 |
+| Verified Bot/App     | <img  src="/assets/special/VerifiedBot.svg" /> <img  src="/assets/special/VerifiedApp.svg" /> | ✅          | Obtained by a verified app.                                     |
+| Bot/App              | <img  src="/assets/special/Bot.svg" /> <img  src="/assets/special/App.svg" />                 | ✅          | Obtained by an unverified app.                                  |
+| Beta                 | <img  src="/assets/special/Beta.svg" />                                                       | ❌          | Reserved for in beta features (Also off center).                |
+| Ai                   | <img  src="/assets/special/LightAi.svg" /> <img  src="/assets/special/DarkAi.svg" />          | ❌          | Only for the Clyde Ai bot.                                      |
+| OP (Original Poster) | <img  src="/assets/special/OriginalPoster.svg" />                                             | ✅          | Given to the original poster of a forum post.                   |
+
+
+---
+
 ## 🏷️ Tag Icons
 
 These are all the Tag Icons that exist, Discord currently only lets you pick from a few of these. Server owners can customize and assign them to their server. There is a total of 21!
