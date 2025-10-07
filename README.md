@@ -128,3 +128,20 @@ These badges are displayed on Discord servers, representing their recognition, v
 > **Note:** Verified and Partnered servers must comply with Discord’s community guidelines to retain their status.  
 > Legacy badges like *Affiliated Server* were part of older internal recognition programs.
 
+---
+
+## 🎉 Special Badges
+
+These badges are limited-time or event-exclusive, often granted during seasonal celebrations, community experiments, or one-time promotions by Discord.
+
+| Badge | Name | Description | Status |
+|:------|:------|:-------------|:--------|
+| <img src="/assets/special/discordlootbox.svg" width="48"> | **A Clown, for a Limited Time** | Earned during the April Fools *Discord Lootbox* event by unlocking all rewards and selecting the clown decoration. | 🔴 Legacy |
+| <img src="/assets/special/snowball.svg" width="48"> | **Snowball Warrior** | Granted during a Discord winter event for participating in seasonal minigames or community events. | 🔴 Legacy |
+| <img src="/assets/special/partyhat.svg" width="48"> | **Discord Anniversary Badge** | Given during Discord’s anniversary celebrations to users who logged in during the event period. | 🔴 Legacy |
+| <img src="/assets/special/questcompleted.svg" width="48"> | **Quest Master** | Earned for completing all available quests in a limited-time quest chain. | 🟢 Active |
+| <img src="/assets/special/orbquest.svg" width="48"> | **Orb Apprentice** | Obtained by completing *Orb* quests and purchasing from the “Orb Exclusives” shop. | 🟢 Active |
+| <img src="/assets/special/birthday.svg" width="48"> | **Discord Birthday Celebration** | Given to users who participated in Discord’s official birthday event. | 🔴 Legacy |
+
+> **Note:** Most *Special Badges* are time-limited and no longer obtainable once their respective events end, but remain visible on user profiles.
+
