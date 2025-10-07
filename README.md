@@ -110,23 +110,28 @@ They evolve automatically as your total boost duration increases.
 
 ---
 
-## 🏰 Server Badges
+## 🏷️ Server Badges
 
-These badges are displayed on Discord servers, representing their recognition, verification, or special community status within the platform.
+Badges that represent **server-level features** such as verification, partnership, boosting, and discovery eligibility.  
+These appear on the top left corner of a Discord server’s icon and indicate its status or recognition by Discord.
 
 | Badge | Name | Description | Status |
 |:------|:------|:-------------|:--------|
-| <img src="/assets/server/verifiedserver.svg" width="48"> | **Verified Server** | Indicates that the server is officially verified by Discord — typically for public figures, game studios, or organizations. | 🟢 Active |
-| <img src="/assets/server/partnerserver.svg" width="48"> | **Partnered Server** | Given to active and engaged communities that meet Discord’s partner program requirements. | 🟢 Active |
-| <img src="/assets/server/communityserver.svg" width="48"> | **Community Server** | Servers that have enabled the *Community* features (welcome screen, rules, announcements, etc.). | 🟢 Active |
-| <img src="/assets/server/discoveryserver.svg" width="48"> | **Server Discovery** | Appears on servers that are publicly listed on Discord’s Server Discovery page. | 🟢 Active |
-| <img src="/assets/server/announcementserver.svg" width="48"> | **Announcement Server** | For servers that can publish announcements to other servers via following channels. | 🟢 Active |
-| <img src="/assets/server/premiumserver.svg" width="48"> | **Premium Server** | Displayed on servers boosted with Discord Nitro to reach Level 1, 2, or 3. | 🟢 Active |
-| <img src="/assets/server/afiliatedserver.svg" width="48"> | **Affiliated Server** | Badge for officially affiliated organizations or events recognized by Discord. | 🔴 Legacy |
-| <img src="/assets/server/verifiedbotdevelopercommunity.svg" width="48"> | **Verified Developer Community** | For developer servers verified as part of Discord’s verified developer program. | 🔴 Legacy |
+| <img src="/assets/server/Staff.svg" width="52"> | **Internal Employee (Staff)** | Given to servers with the `_INTERNAL_EMPLOYEE_ONLY_` feature flag — not available to the public. | 🔴 Internal |
+| <img src="/assets/server/Partnered.svg" width="52"> | **Partnered Server** | Awarded to partnered servers that met Discord’s partnership requirements before October 2023. | 🟠 Legacy |
+| <img src="/assets/server/Verified.svg" width="52"> | **Verified Server** | Granted to servers verified as official organizations or brands (program currently paused). | ⏸️ Paused |
+| <img src="/assets/server/DiscoverableDark.svg" width="52"> | **Public Server (Discovery)** | Indicates the server is listed in Discord’s public server discovery. | 🟢 Active |
+| <img src="/assets/server/DiscoverableBoosted.svg" width="52"> | **Public Server (Boosted)** | Discovery-enabled server with at least one boost. | 🟢 Active |
+| <img src="/assets/server/CommunityDark.svg" width="52"> | **Community Server** | Servers with community features (rules, welcome screen, mod log, etc.) enabled. | 🟢 Active |
+| <img src="/assets/server/CommunityBoosted.svg" width="52"> | **Community Server (Boosted)** | Community-enabled server with at least one boost. | 🟢 Active |
+| <img src="/assets/server/Boost0.svg" width="52"> | **Boosted Server (Level 0)** | Server has at least 1 boost but no level bonuses. | 🟢 Active |
+| <img src="/assets/server/Boost1.svg" width="52"> | **Boosted Server (Level 1)** | Server has reached level 1 boost tier. | 🟢 Active |
+| <img src="/assets/server/Boost2Dark.svg" width="52"> | **Boosted Server (Level 2)** | Server has reached level 2 boost tier. | 🟢 Active |
+| <img src="/assets/server/Boost3Dark.svg" width="52"> | **Boosted Server (Level 3)** | Server has reached the maximum boost tier (level 3). | 🟢 Active |
+| <img src="/assets/server/Crown.svg" width="52"> | **Server Owner** | Automatically shown to the server creator. Can be removed by giving admin to another role. | 🟢 Active |
+| <img src="/assets/server/NewHere.svg" width="52"> | **I’m New Here!** | Temporary badge for new community members (visible for 1 week after joining). | 🟢 Active |
 
-> **Note:** Verified and Partnered servers must comply with Discord’s community guidelines to retain their status.  
-> Legacy badges like *Affiliated Server* were part of older internal recognition programs.
+> **Note:** Server badges are automatically applied and cannot be manually earned or transferred, except the Owner badge.
 
 ---
 
