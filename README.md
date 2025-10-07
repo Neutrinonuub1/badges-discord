@@ -108,3 +108,23 @@ They evolve automatically as your total boost duration increases.
 
 > **Note:** If you cancel or lose your Nitro subscription, your boost streak will pause and may reset, causing your badge to downgrade or disappear.
 
+---
+
+## 🏰 Server Badges
+
+These badges are displayed on Discord servers, representing their recognition, verification, or special community status within the platform.
+
+| Badge | Name | Description | Status |
+|:------|:------|:-------------|:--------|
+| <img src="/assets/server/verifiedserver.svg" width="48"> | **Verified Server** | Indicates that the server is officially verified by Discord — typically for public figures, game studios, or organizations. | 🟢 Active |
+| <img src="/assets/server/partnerserver.svg" width="48"> | **Partnered Server** | Given to active and engaged communities that meet Discord’s partner program requirements. | 🟢 Active |
+| <img src="/assets/server/communityserver.svg" width="48"> | **Community Server** | Servers that have enabled the *Community* features (welcome screen, rules, announcements, etc.). | 🟢 Active |
+| <img src="/assets/server/discoveryserver.svg" width="48"> | **Server Discovery** | Appears on servers that are publicly listed on Discord’s Server Discovery page. | 🟢 Active |
+| <img src="/assets/server/announcementserver.svg" width="48"> | **Announcement Server** | For servers that can publish announcements to other servers via following channels. | 🟢 Active |
+| <img src="/assets/server/premiumserver.svg" width="48"> | **Premium Server** | Displayed on servers boosted with Discord Nitro to reach Level 1, 2, or 3. | 🟢 Active |
+| <img src="/assets/server/afiliatedserver.svg" width="48"> | **Affiliated Server** | Badge for officially affiliated organizations or events recognized by Discord. | 🔴 Legacy |
+| <img src="/assets/server/verifiedbotdevelopercommunity.svg" width="48"> | **Verified Developer Community** | For developer servers verified as part of Discord’s verified developer program. | 🔴 Legacy |
+
+> **Note:** Verified and Partnered servers must comply with Discord’s community guidelines to retain their status.  
+> Legacy badges like *Affiliated Server* were part of older internal recognition programs.
+
