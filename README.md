@@ -77,15 +77,16 @@ These badges identify **verified bots** and indicate functionality or integratio
 
 ## 💎 Nitro Subscription Badges
 
-These badges represent different types of active **Discord Nitro subscriptions**, including legacy versions that are no longer available for purchase.
-
-| Badge | Name | Description | Status |
-|:------|:------|:-------------|:--------|
-| <img src="/assets/nitro/nitro.svg" width="48"> | **Discord Nitro** | Indicates an active Nitro, Nitro Basic, or Classic subscription. Unlocks enhanced features like custom emojis, HD streaming, and higher upload limits. | 🟢 Active |
-| <img src="/assets/nitro/nitrobasic.svg" width="48"> | **Nitro Basic** | A lighter version of Nitro offering basic premium perks such as animated emojis and larger upload limits. | 🟢 Active |
-| <img src="/assets/nitro/nitroclassic.svg" width="48"> | **Nitro Classic** | The original Nitro plan with perks like animated avatars and custom tags. Discontinued but retained by users who subscribed before the change. | 🔴 Legacy |
-
-> **Note:** Nitro Classic has been replaced by the newer **Nitro** and **Nitro Basic** tiers, but users who subscribed prior to the transition still retain the Classic badge.
+| Tier | Badge | Months | Description |
+|:------|:------|:------|:-------------|
+| Bronze | <img src="/assets/subscriptions/badges/bronze.png" width="48"> | 1 | Subscribed for 1 month |
+| Silver | <img src="/assets/subscriptions/badges/silver.png" width="48"> | 3 | Subscribed for 3 months |
+| Gold | <img src="/assets/subscriptions/badges/gold.png" width="48"> | 6 | Subscribed for 6 months |
+| Platinum | <img src="/assets/subscriptions/badges/platinum.png" width="48"> | 12 | Subscribed for 1 year |
+| Diamond | <img src="/assets/subscriptions/badges/diamond.png" width="48"> | 24 | Subscribed for 2 years |
+| Emerald | <img src="/assets/subscriptions/badges/emerald.png" width="48"> | 36 | Subscribed for 3 years |
+| Ruby | <img src="/assets/subscriptions/badges/ruby.png" width="48"> | 60 | Subscribed for 5 years |
+| Opal | <img src="/assets/subscriptions/badges/opal.png" width="48"> | 72+ | Subscribed for 6+ years |
 
 ---
 
