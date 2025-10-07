@@ -30,12 +30,7 @@ These badges are typically found on user profiles, representing account type, ag
 | <img src="/assets/discordstaff.svg" width="48"> | **Discord Staff** | Awarded to official Discord employees. | 🟢 Active |
 | <img src="/assets/discordpartner.svg" width="48"> | **Partnered Server Owner** | Given to owners of verified community servers. | 🟢 Active |
 | <img src="/assets/hypesquadevents.svg" width="48"> | **HypeSquad Events** | For users who represent Discord at conventions or community events. | 🟢 Active |
-| <img src="/assets/discordbughunter1.svg" width="48"> | **Bug Hunter (Level 1)** | Awarded for finding and reporting verified bugs. | 🟢 Active |
-| <img src="/assets/discordbughunter2.svg" width="48"> | **Bug Hunter (Level 2)** | Elite bug hunters who earn Level 2 through major contributions. | 🟢 Active |
 | <img src="/assets/discordearlysupporter.svg" width="48"> | **Early Supporter** | Granted to users who purchased Nitro before October 2018. | 🔴 Legacy |
-| <img src="/assets/discordbotdev.svg" width="48"> | **Early Verified Bot Developer** | Given to developers who verified a bot before August 2020. | 🔴 Legacy |
-| <img src="/assets/activedeveloper.svg" width="48"> | **Active Developer** | For developers who maintain active bots in Discord’s API. | 🟢 Active |
-| <img src="/assets/discordmod.svg" width="48"> | **Moderator Programs Alumni** | Given to graduates of Discord’s Moderator Academy. | 🟢 Active |
 | <img src="/assets/discordnitro.svg" width="48"> | **Discord Nitro** | Indicates an active Nitro, Nitro Basic, or Classic subscription. | 🟢 Active |
 | <img src="/assets/orb.svg" width="48"> | **Orbs Apprentice** | Earned by completing its specific quests and buying from “Orbs Exclusives”. | 🟢 Active |
 | <img src="/assets/quest.png" width="48"> | **Completed a Quest** | Granted for completing a quest from the Gift Inventory tab. | 🟢 Active |
