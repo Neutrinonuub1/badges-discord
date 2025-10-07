@@ -169,7 +169,8 @@ Special or unique badge appearances in Discord history.
 ## Credits
 
 - Based on public Discord assets and documentation  
-- High-quality assets stored in `/assets/`
+- High-quality assets stored in `/assets/`  
+- Official Discord guide: [Profile Badges 101](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)
 
 ---
 
